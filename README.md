@@ -1,5 +1,5 @@
 ## BookApi
-.NET 5.0 API made for BookLibraries or smh
+.NET 5.0 API, Swagger UI
 
 ### how to run
 ```
